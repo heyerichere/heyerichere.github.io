@@ -30,7 +30,7 @@ controls.maxDistance = 20; // Maximum zoom distance
 let bee;
 const loader = new GLTFLoader();
 loader.load(
-    'images/demon_bee_full_texture.glb',
+    'static/images/demon_bee_full_texture.glb',
     (gltf) => {
         bee = gltf.scene;
         bee.scale.set(5, 5, 5);
