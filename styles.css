@@ -105,7 +105,7 @@ header {
 
 /* Hero Section */
 .hero-section {
-    background-image: url('images/homepage.jpg');
+    background-image: url('static/images/homepage.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -274,11 +274,11 @@ header {
 }
 
 /* Project-Specific Background Images */
-.project1 { background-image: url('images/project4-bg.jpg'); }
-.project2 { background-image: url('images/project5-bg.jpg'); }
-.project3 { background-image: url('images/project3-bg.jpg'); }
-.project4 { background-image: url('images/project1-bg.jpg'); }
-.project5 { background-image: url('images/project2-bg.jpg'); }
+.project1 { background-image: url('static/images/project4-bg.jpg'); }
+.project2 { background-image: url('static/images/project5-bg.jpg'); }
+.project3 { background-image: url('static/images/project3-bg.jpg'); }
+.project4 { background-image: url('static/images/project1-bg.jpg'); }
+.project5 { background-image: url('static/images/project2-bg.jpg'); }
 
 /* Experiences Section */
 .experiences-section {
